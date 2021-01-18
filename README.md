@@ -7,6 +7,7 @@
 
 ## Slices
 + [Slice tricks](https://ueokande.github.io/go-slice-tricks/) - cheat sheet for common slice operations.
++ [Bad go slice of pointers](https://philpearl.github.io/post/bad_go_slice_of_pointers/) - why you should not use slice of pointers in most cases
 
 ## Project Structure
 + [Cli project structure](https://bencane.com/2020/12/29/how-to-structure-a-golang-cli-project/) - describes simple structure of cli project.
