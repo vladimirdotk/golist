@@ -14,3 +14,4 @@
 
 ## Gotchas
 + [Cmd dev null](https://rohitpaulk.com/articles/cmd-run-dev-null) - if either one of Cmd.Stdout, Cmd.Stderr, Cmd.Stdin are not explicitly set, Go sets them to /dev/null. This can cause failures when using Cmd.Run in Go programs that execute in environments where /dev/null isn’t accessible. To fix this, either assign dummy values to Cmd.Stdout, Cmd.Stderr and Cmd.Stdin, or ensure that /dev/null is accessible.
++ [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html) - Traps, Gotchas, and Common Mistakes, especially useful for New Golang Devs.
