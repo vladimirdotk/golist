@@ -18,3 +18,6 @@
 
 ## Compiler
 + [Why Go compiles so fast](https://devrajcoder.medium.com/why-go-compiles-so-fast-772435b6bd86) - Go is one of the fastest compiling programming languages out there. It compiles faster than most of the programming languages, like C/C++, Java, Rust, etc. Since the existing large codebase at Google used to take long hours to build, the quick compilation was one of the most important requirements during the creation of Golang at Google.
+
+## Errors
++ [Working with errors](https://www.youtube.com/watch?v=IKoSsJFdRtI) - Video about new (since Go 1.13) `Is`, `As`, `Unwrap` methods to dealing with errors.
