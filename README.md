@@ -21,3 +21,6 @@
 
 ## Errors
 + [Working with errors](https://www.youtube.com/watch?v=IKoSsJFdRtI) - Video about new (since Go 1.13) `Is`, `As`, `Unwrap` methods to dealing with errors.
+
+## Other
++ [CheatSheet](https://github.com/a8m/golang-cheat-sheet) - Good and brief examples of Go basics most of which taken from Go Tour.
